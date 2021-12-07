@@ -1,2 +1,2 @@
 # PrimerServidorWed
-En en el iterior del archivo README se explica el codigo del proyecto
+En en el interior del archivo README se explica el codigo del proyecto
